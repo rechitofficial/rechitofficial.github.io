@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Farhan Mufti Hilmy's CV 
+description: Farhan Mufti Hilmy's CV
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+baseurl: 
+url: https://rechitofficial.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
+  name: Farhan Mufti Hilmy
+  title: Mobile Developer
+  address: Yogyakarta, Indonesia
+  email: farhanmuftihilmy@gmail.com
   link: http://ddbullfrog.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: rechitofficial
+  linkedin: rechitofficial
+  twitter: rechitofficial
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
@@ -50,23 +50,39 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
+      organization: Gadjah Mada University
+      location: Yogyakarta, Indonesia
+      degree: D4
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2019
+      duration: (2019 - Now)
+      description: 
+    - education2:
+      organization: Senior High School 1 of Kebumen
+      location: Central Java, Indonesia
+      degree: 
+      major: Mathematics, Science
+      started: 2016
+      duration: (2016 - 2019)
+      description: 
+    - education3:
+      organization: Junior High School 1 of Kebumen
+      location: Central Java, Indonesia
+      degree: 
+      major: Mathematics, Science, Civics, English, Indonesian, Religious Study
+      started: 2013
+      duration: (2013 - 2016)
+      description: 
   languages:
     - language1:
-      name: Chinese
+      name: Indonesia
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Intermediate
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Arabic
+      proficiency: Novice  
   programmingSkills:
     - skill1:
       name: HTML

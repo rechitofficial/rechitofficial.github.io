@@ -270,6 +270,10 @@ hr {
     margin-top: 5px;
 }
 
+.timeline #section-education {
+    display: flex;
+}
+
 /* Tech Stack*/
 .tech-stack {
     color: #fff;
