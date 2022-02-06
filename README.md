@@ -1,4 +1,4 @@
-# My Resu,me
+# My Resume
 -------
 This site contain my current resume
 
